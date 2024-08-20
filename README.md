@@ -6,7 +6,7 @@ This implementation demonstrates a solid understanding of how reconciliation mig
 
 2. Re-rendering (render() function): The render() function clears the existing DOM (#todos element) and re-renders the entire list based on the current state (todos array). This is a simple form of reconciliation where you rebuild the entire UI every time there's a change.
 
-3.Component Representation (divComponent() function): You're breaking down your UI into smaller components (divComponent) that represent individual tasks. This is similar to how React components work.
+3. Component Representation (divComponent() function): You're breaking down your UI into smaller components (divComponent) that represent individual tasks. This is similar to how React components work.
 
 4. Handling Updates (addTask() and deleteTask() functions): You update the state by adding or deleting tasks and then call render() to reflect those changes in the DOM.
 
