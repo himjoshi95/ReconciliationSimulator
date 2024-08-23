@@ -1,6 +1,6 @@
 # TOPIC : Mocking a  React reconciler in Vanilla Javascript
 
-This implementation demonstrates a solid understanding of how reconciliation might work on a basic level. You've created a simple "reconciler" that re-renders the list of tasks (todos) whenever a task is added or deleted. Here's a breakdown of how your logic aligns with the concept of reconciliation:
+This implementation demonstrates a solid understanding of how reconciliation might work on a basic level. I've created a simple "reconciler" that re-renders the list of tasks (todos) whenever a task is added or deleted. Here's a breakdown of how your logic aligns with the concept of reconciliation:
 
 1. State Management (todos array): You're managing the state of the tasks in an array called todos. This array represents the current state of your application.
 
